@@ -1,0 +1,161 @@
+  element.style {
+      align-items: center;
+  }
+  
+  # rectangel {
+      width: 1400px;
+      height: 78px;
+      background: white;
+  }
+  
+  .card {
+      background-color: white;
+      border: 5px solid white;
+      border-radius: 15 px;
+      min-width: 1000px;
+      min-height: 80 px;
+      margin: 20px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-basis: 180;
+  }
+  
+  element.style {
+      align-items: center;
+  }
+  
+  #squere {
+      width: 1126 px;
+      height: 496px;
+      background: white;
+  }
+  
+  .card {
+      background-color: white;
+      border: 10px solid white;
+      border-radius: 15px;
+      min-width: 1200px;
+      min-height: 500 px;
+      margin: 20px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-basis: 180;
+  }
+  
+  element.style {
+      align-items: center;
+  }
+  
+  # rectangle {
+      width: 2211px;
+      height: 543px;
+      background: white;
+  }
+  
+  .card {
+      background-color: white;
+      border: 20px solid white;
+      border-radius: 15px;
+      min-width: 2300px;
+      min-height: 600px;
+      margin: 20px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-basis: 180;
+  }
+  
+  element.style {
+      align-items: center;
+  }
+  
+  #squere {
+      width: 1110px;
+      height: 574px;
+      background: white;
+  }
+  
+  .card {
+      background-color: white;
+      border: 20px solid white;
+      border-radius: 15px;
+      min-width: 1200px;
+      min-height: 600px;
+      margin: 20px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-basis: 180;
+  }
+  
+  element.style {
+      align-items: center;
+  }
+  
+  #squere {
+      width: 1121px;
+      height: 520.03px;
+      background: white;
+  }
+  
+  .card {
+      background-color: white;
+      border: 20px solid white;
+      border-radius: 15px;
+      min-width: 1200px;
+      min-height: 600px;
+      margin: 20px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-basis: 180;
+  }
+  
+  element.style {
+      align-items: center;
+  }
+  
+  # squere {
+      width: 1109.19px;
+      height: 608.37px;
+      background: white;
+  }
+  
+  .card {
+      background-color: white;
+      border: 20px solid white;
+      border-radius: 15px;
+      min-width: 2000px;
+      min-height: 700px;
+      margin: 20px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-basis: 180;
+  }
+  
+  element.style {
+      align-items: center;
+  }
+  
+  #rectangle {
+      width: 1110px;
+      height: 308px;
+      background: white;
+  }
+  
+  .card {
+      background-color: white;
+      border: 20px solid white;
+      border-radius: 15px;
+      min-width: 1200px;
+      min-height: 310px;
+      margin: 20px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-basis: 180;
+      ;
+  }
